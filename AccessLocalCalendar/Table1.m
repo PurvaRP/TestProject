@@ -10,7 +10,7 @@
 
 
 @implementation Table1
-@dynamic name;
+@dynamic name ;
 @dynamic col;
 
 @end
