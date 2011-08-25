@@ -11,7 +11,7 @@
 #import <CoreData/CoreData.h>
 
 @interface AccessLocalCalendarViewController : UIViewController {
-    EKEventStore *eventStore;
+    EKEventStore  *eventStore;
     NSMutableArray *eventArray;
 }
 @property (nonatomic, retain, readonly) NSManagedObjectContext *managedObjectContext;
