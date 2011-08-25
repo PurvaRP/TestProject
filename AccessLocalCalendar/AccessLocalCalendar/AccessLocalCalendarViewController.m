@@ -9,7 +9,7 @@
 #import "AccessLocalCalendarViewController.h"
 
 @interface AccessLocalCalendarViewController()
-- (void) getEventsOfMonth;
+- (void)getEventsOfMonth;
 @end
 
 
